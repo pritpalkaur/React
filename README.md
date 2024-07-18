@@ -1,2 +1,2 @@
 # React
-this app consume apiin .net 
+this app consume api coded in asp.net core 
