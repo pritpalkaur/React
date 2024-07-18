@@ -1,0 +1,19 @@
+/* TaskUpdate.css */
+.table-container {
+    overflow-x: auto;
+}
+
+.table {
+    table-layout: fixed;
+    width: 100%;
+}
+
+.table th, .table td {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.form-control {
+    width: 100%;
+}
